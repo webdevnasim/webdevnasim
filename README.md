@@ -33,8 +33,8 @@
 <h3 align="left">Stars</h3>
 
 <div width="100%">
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=webdevnasim&show_icons=true&locale=en&theme=" alt="webdevnasim" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevnasim&theme=" alt="webdevnasim" />
+  <img align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=webdevnasim&show_icons=true&locale=en&theme=" alt="webdevnasim" />
+  <img align="right" width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=webdevnasim&theme=" alt="webdevnasim" />
 </div>
   <img align="center" width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevnasim&langs_count=8&theme=" alt=webdevnasim />
   
