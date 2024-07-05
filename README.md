@@ -32,7 +32,7 @@
 
 <h3 align="left">Stars</h3>
 
-<div width="100%" height="200px">
+<div width="100%">
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=webdevnasim&show_icons=true&locale=en&theme=" alt="webdevnasim" />
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevnasim&theme=" alt="webdevnasim" />
 </div>
