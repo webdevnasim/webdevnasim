@@ -32,12 +32,11 @@
 
 <h3 align="left">Stars</h3>
 
-<div>
-  <img align="center" width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=webdevnasim&show_icons=true&locale=en&theme=" alt="webdevnasim" />
-  <img align="right" width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevnasim&theme=" alt="webdevnasim" />
+<div width="100%" height="200px">
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=webdevnasim&show_icons=true&locale=en&theme=" alt="webdevnasim" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevnasim&theme=" alt="webdevnasim" />
+  <img align="center" width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevnasim&langs_count=8&theme=" alt=webdevnasim />
 </div>
-<img align="left" width="100%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevnasim&langs_count=8&theme=" alt=webdevnasim />
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/webdevnasim">
