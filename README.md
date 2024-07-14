@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/mdnasimtalukdar/mdnasimtalukdar/blob/main/readme-image.gif" />
 <h1 align="center">Hi 👋, I'm Nasim Talukdar</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" />
 <p align="center" >Aspiring Frontend Developer with a passion for creating intuitive and dynamic user interfaces. Currently enhancing my skills in HTML, CSS, and JavaScript, and exploring modern frameworks and libraries like React. Committed to continuous learning and contributing to open-source projects. Let's build something amazing together!</p><br><br>
+<img align = "right" alt = "coding" width = "500" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="100%" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevnasim&label=Profile%20views&color=0e75b6&style=flat" alt="webdevnasim" /> </p>
-- 🌱 I’m currently learning **Frontend Development**
-
-- 📫 How to reach me **mdnasimtalukdar7@gmail.com**
+- 🌱 I’m currently learning **Frontend Development** <br>
+- 📫 How to reach me **mdnasimtalukdar7@gmail.com** <br>
+- ⚡ Fun fact I think I am going to be the next Elon Mask😁
 
 </div><h3 align="left">Connect with me:</h3>
 <div> <a href="https://twitter.com/webdevnasim" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
